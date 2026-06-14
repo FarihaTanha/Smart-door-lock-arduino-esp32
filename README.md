@@ -153,7 +153,7 @@ smart-door-lock-arduino-esp32/
 
 ## Contributors
 
-| Name | ID | Role |
+| Name | ID |
 |---|---|---|
 | Fariha Tanha | 22101296 
 | Shamaila Sadat Niha | 22301728 
