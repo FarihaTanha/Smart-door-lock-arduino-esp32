@@ -155,10 +155,10 @@ smart-door-lock-arduino-esp32/
 
 | Name | ID | Role |
 |---|---|---|
-| Fariha Tanha | 22101296 | Arduino wiring, keypad & LCD integration |
-| Shamaila Sadat Niha | 22301728 | Servo motor & hall effect sensor setup |
-| Pranto Roy | 22301261 | ESP32-CAM hardware & transistor interface |
-| Nishat Tasnim | 22301643 | Power management & full system integration |
+| Fariha Tanha | 22101296 
+| Shamaila Sadat Niha | 22301728 
+| Pranto Roy | 22301261 
+| Nishat Tasnim | 22301643 
 
 ## 📄 License
 
